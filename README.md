@@ -4,14 +4,6 @@
   <br/>
 
   <a href="https://github.com/Gabriel-Tol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=0A0F2C00&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Feliks+Gabriel;Informatics+Student+%7C+UBSI;Aspiring+Full+Stack+%26+Mobile+Developer;Tech+Enthusiast+%26+AI+Explorer" alt="Typing SVG" /></a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Gabriel-Tol" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gabriel--Tol-0A0F2C?style=flat-square&logo=github&logoColor=00F0FF&labelColor=0A0F2C" alt="GitHub Badge" /></a>&nbsp;
-  <a href="https://www.instagram.com/felikzgabriel" target="_blank"><img src="https://img.shields.io/badge/Instagram-@felikzgabriel-c026d3?style=flat-square&logo=instagram&logoColor=white&labelColor=0A0F2C" alt="Instagram Badge" /></a>&nbsp;
-  <a href="https://www.tiktok.com/@zeyrush0" target="_blank"><img src="https://img.shields.io/badge/TikTok-@zeyrush0-000000?style=flat-square&logo=tiktok&logoColor=white&labelColor=0A0F2C" alt="TikTok Badge" /></a>&nbsp;
-  <a href="https://github.com/Gabriel-Tol"><img src="https://komarev.com/ghpvc/?username=Gabriel-Tol&color=00f0ff&style=flat-square&label=Profile%20Views" alt="Profile Views" /></a>&nbsp;
-  <a href="https://github.com/Gabriel-Tol"><img src="https://img.shields.io/github/followers/Gabriel-Tol?label=Followers&style=flat-square&color=00f0ff&labelColor=0A0F2C" alt="GitHub Followers" /></a>
 </div>
 
 ---
@@ -93,11 +85,11 @@ I'm **Feliks Gabriel**, an Informatics student at **Universitas Bina Sarana Info
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Gabriel-Tol" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gabriel--Tol-0A0F2C?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0F2C" alt="GitHub Profile" /></a>&nbsp;
-  <a href="https://www.instagram.com/felikzgabriel" target="_blank"><img src="https://img.shields.io/badge/Instagram-@felikzgabriel-0A0F2C?style=for-the-badge&logo=instagram&logoColor=00F0FF&labelColor=0A0F2C" alt="Instagram Profile" /></a>&nbsp;
-  <a href="https://www.tiktok.com/@zeyrush0" target="_blank"><img src="https://img.shields.io/badge/TikTok-@zeyrush0-0A0F2C?style=for-the-badge&logo=tiktok&logoColor=00F0FF&labelColor=0A0F2C" alt="TikTok Profile" /></a>
-</p>
+[![GitHub Badge](https://img.shields.io/badge/-Gabriel--Tol-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Gabriel-Tol) 
+[![Instagram Badge](https://img.shields.io/badge/-@felikzgabriel-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/felikzgabriel) 
+[![Tiktok](https://img.shields.io/badge/-@zeyrush0-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zeyrush0) 
+[![](https://komarev.com/ghpvc/?username=Gabriel-Tol&color=blue&label=Profile%20Views)](https://github.com/Gabriel-Tol) 
+[![](https://img.shields.io/github/followers/Gabriel-Tol?label=GitHub%20Followers)](https://github.com/Gabriel-Tol)
 
 ---
 
